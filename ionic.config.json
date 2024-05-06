@@ -1,0 +1,7 @@
+{
+  "name": "counterapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
